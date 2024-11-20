@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some open source projects to enhance my knowledge.
 - 📫 How to reach me : message me on linkedin and github.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am the foodie person and also good in cooking.
 
 <!---
 yogita-create/yogita-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
