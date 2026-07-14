@@ -4,7 +4,7 @@
 
 ---
 
-- 👀 I'm passionate about **Web Development** — building clean, interactive, and user-friendly experiences
+- 👀 I'm passionate about **Web Development and Java Development** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Advanced Java Programming**
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
 - 📫 Reach me on **[Linkedin url: https://linkedin.com/in/yogita sawant]()** or **[GitHub](https://github.com/yogita-create)**
