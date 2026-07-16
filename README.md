@@ -7,7 +7,7 @@
 - 👀 I'm passionate about **Web Development and Java Development** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Advanced Java Programming**
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
-- 📫 Reach me on **[Linkedin url: https://linkedin.com/in/yogita sawant]()** or **[GitHub](https://github.com/yogita-create)**
+- 📫 Reach me on **[Linkedin url: www.linkedin.com/in/yogita-sawant-webdev]()** or **[GitHub](https://github.com/yogita-create)**
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: I'm a total foodie 🍜 — and yes, I can cook just as well as I can code 👩‍🍳✨
 
