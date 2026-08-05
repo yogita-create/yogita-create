@@ -4,8 +4,8 @@
 
 ---
 
-- 👀 I'm passionate about **Web Development and Java Development** — building clean, interactive, and user-friendly experiences
-- 🌱 Currently leveling up my skills in **Advanced Java Programming**
+- 👀 I'm passionate about **Web Development and Frontend Development** — building clean, interactive, and user-friendly experiences
+- 🌱 Currently leveling up my skills in **Full Stack Web Devlopment**
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
 - 📫 Reach me on **[Linkedin](https://linkedin.com/in/yogita-sawant-webdev)** or **[GitHub](https://github.com/yogita-create)**
 - 😄 Pronouns: **she/her**
