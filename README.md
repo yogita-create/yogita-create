@@ -9,9 +9,7 @@
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
 - 📫 Reach me on **[Linkedin](https://linkedin.com/in/yogita-sawant-webdev)** or **[GitHub](https://github.com/yogita-create)**
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: I'm a total foodie 🍜 — and yes, I can cook just as well as I can code 👩‍🍳✨
-
----
+- ⚡ Fun fact: ☕ My code runs better after coffee — unverified but strongly believed
 
 ### 🛠️ Tech I Work With
 
