@@ -2,8 +2,6 @@
 
 ### 🚀 Web Developer | MCA Student | Open Source Enthusiast
 
----
-
 - 👀 I'm passionate about **Web Development and Frontend Development** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Full Stack Web Devlopment**
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
