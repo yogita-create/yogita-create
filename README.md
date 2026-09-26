@@ -1,6 +1,6 @@
 # Hi there, I'm Yogita! 👋
 
-### 🚀 Web Developer | MCA Student | Open Source Enthusiast
+### 🚀 Web Developer | MCA Candidate | Open Source Enthusiast
 
 - 👀 I'm passionate about **Web Development and Frontend Development** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Full Stack Web Devlopment**
