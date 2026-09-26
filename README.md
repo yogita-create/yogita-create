@@ -8,6 +8,7 @@
 - 📫 Reach me on **[Linkedin](https://linkedin.com/in/yogita-sawant-webdev)** or **[GitHub](https://github.com/yogita-create)**
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: ☕ My code runs better after coffee — unverified but strongly believed
+- 😊 Always ready to connect with fellow tech enthusiasts, exchange ideas, and contribute to projects that make a real impact.
 
 ### 🛠️ Tech I Work With
 
