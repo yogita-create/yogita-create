@@ -1,4 +1,4 @@
-# Hi there, I'm Yogita! 👋
+ Hi there, I'm Yogita! 👋
 
 ### 🚀 Web Developer | MCA Candidate | Open Source Enthusiast
 
@@ -51,6 +51,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 > *"Code it, style it, ship it."* 💻
