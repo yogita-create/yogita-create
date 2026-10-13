@@ -2,7 +2,7 @@
 
 ### 🚀 Web Developer | QA Tester | MCA Candidate | Open Source Enthusiast
 
-- 👀 I'm passionate about **Web Development and Frontend Development** — building clean, interactive, and user-friendly experiences
+- 👀 I'm passionate about **Web Development, Frontend Development, Software Testing, SDLC, STLC and Agile Model** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Full Stack Web Devlopment**
 - 💞️ Looking to collaborate on **open source projects** — always up for learning and contributing!
 - 📫 Reach me on **[Linkedin](https://linkedin.com/in/yogita-sawant-webdev)** and **[GitHub](https://github.com/yogita-create)**
