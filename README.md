@@ -1,6 +1,6 @@
- ### **Hi there, I'm Yogita!** 👋
+ ### **Hi there, I'm Yogita!** 👋😍
 
-### 🚀 Web Developer | MCA Candidate | Open Source Enthusiast
+### 🚀 Web Developer | QA Tester | MCA Candidate | Open Source Enthusiast
 
 - 👀 I'm passionate about **Web Development and Frontend Development** — building clean, interactive, and user-friendly experiences
 - 🌱 Currently leveling up my skills in **Full Stack Web Devlopment**
@@ -52,4 +52,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-> *"Code it, style it, ship it."* 💻
+> *"Code it, style it, ship it."* 💻💡✔️
