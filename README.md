@@ -110,16 +110,6 @@ I'm an MCA candidate and passionate developer who loves transforming ideas into 
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yogita-create/yogita-create/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
 ## 🚀 What I'm Working Towards
 
 - Building real-world full-stack web applications.
