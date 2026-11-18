@@ -133,7 +133,6 @@ const yogita = {
 };
 
 console.log("Let's build something amazing together! 🚀");
-```
 
 ---
 
