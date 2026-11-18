@@ -126,7 +126,5 @@ console.log("Let's build something amazing together! 🚀");
 
 **Thanks for visiting my profile! 💜**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8" alt="Footer Animation"/>
-
 </div>
 
