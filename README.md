@@ -94,22 +94,6 @@ I'm an MCA candidate and passionate developer who loves transforming ideas into 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogita-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogita-create&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yogita-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🚀 What I'm Working Towards
 
 - Building real-world full-stack web applications.
