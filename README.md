@@ -6,14 +6,6 @@
 
 <br/>
 
-<a href="https://github.com/yogita-create">
-<img src="https://komarev.com/ghpvc/?username=yogita-create&label=PROFILE+VIEWS&color=9B72CF&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/yogita-create?tab=followers">
-<img src="https://img.shields.io/github/followers/yogita-create?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
-</a>
-
 </div>
 
 ---
